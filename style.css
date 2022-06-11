@@ -1,0 +1,70 @@
+
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    color:chartreuse;
+    text-align: center
+
+}
+h3{
+    text-align: center;
+    color:orangered;
+    font-size: 30px
+}
+#order{
+    border:5px solid yellow;
+    font-family:cursive;
+    font-size: 20px;
+    background-image: url(https://c.tenor.com/2aR104Kcck4AAAAM/sparkle-wallpaper.gif);
+    border-radius: 30px;
+    padding:10px;
+    font-size: 20px;
+}
+.menu{
+    border: 5px solid green;
+     font-family:cursive;
+    font-size: 20px;
+    border-radius: 30px;
+    padding:8px;
+    font-size: 20px;
+    background-color: chartreuse;
+    
+}
+
+
+header{
+    background-image: url()
+}
+section{
+    display: inline-block;
+    border:5px solid black;
+    border-radius: 100px;
+    padding:20px;
+    margin:10px;
+    background-color:lightcoral;
+    color:chartreuse;
+     transition-duration: 1s;
+    transition-property: all;
+    
+}
+section:hover {
+        background: yellow;
+        color: white;
+      }
+table{
+    border-collapse:separate;
+    border-spacing: 5px;
+   
+}
+td{
+    border: 2px solid yellow;
+    width: 300px;
+    height:200px;
+
+     
+}
+button{
+    width:600px;
+    height:130px;
+    padding:0px
+}
